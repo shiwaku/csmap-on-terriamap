@@ -1,0 +1,246 @@
+{
+  "homeCamera": {
+    "north": 48,
+    "east": 153,
+    "south": 26,
+    "west": 122
+  },
+  "catalog": [
+    {
+      "id": "cs-group",
+      "name": "CS立体図",
+      "type": "group",
+      "members": [
+        {
+          "id": "fukushima-cs",
+          "type": "open-street-map",
+          "name": "福島県CS立体図",
+          "url": "https://www2.ffpri.go.jp/soilmap/tile/cs_fukushima/",
+          "fileExtension": "png",
+          "attribution": "<a href='https://www2.ffpri.go.jp/soilmap/data-src.html'>福島県CS立体図(森林総研)</a>"
+        },
+        {
+          "id": "tochigi-cs",
+          "type": "open-street-map",
+          "name": "栃木県CS立体図",
+          "url": "https://rinya-tochigi.geospatial.jp/2023/rinya/tile/csmap/",
+          "fileExtension": "png",
+          "attribution": "<a href='https://www.geospatial.jp/ckan/dataset/csmap_tochigi'>栃木県CS立体図</a>"
+        },
+        {
+          "id": "tokyo-tama-cs",
+          "type": "open-street-map",
+          "name": "東京都(多摩地域)CS立体図",
+          "url": "https://shiworks.xsrv.jp/raster-tiles/tokyo-digitaltwin/tokyopc-tama-2023-cs-tiles/",
+          "fileExtension": "png",
+          "attribution": "<a href='https://www.geospatial.jp/ckan/dataset/tokyopc-tama-2023'>東京都(多摩地域)CS立体図(東京都デジタルツイン実現プロジェクト 多摩地域点群データを加工して作成)</a>"
+        },
+        {
+          "id": "tokyo-shima-01-cs",
+          "type": "open-street-map",
+          "name": "東京都(島しょ地域01)CS立体図",
+          "url": "https://xs489works.xsrv.jp/raster-tiles/tokyo-digitaltwin/tokyopc-shima-01-2023-cs-tiles/",
+          "fileExtension": "png",
+          "attribution": "<a href='https://www.geospatial.jp/ckan/dataset/tokyopc-shima-2023'>東京都(島しょ地域)CS立体図(東京都デジタルツイン実現プロジェクト 島しょ地域点群データを加工して作成)</a>"
+        },
+        {
+          "id": "tokyo-shima-02-cs",
+          "type": "open-street-map",
+          "name": "東京都(島しょ地域02)CS立体図",
+          "url": "https://xs489works.xsrv.jp/raster-tiles/tokyo-digitaltwin/tokyopc-shima-02-2023-cs-tiles/",
+          "fileExtension": "png",
+          "attribution": "<a href='https://www.geospatial.jp/ckan/dataset/tokyopc-shima-2023'>東京都(島しょ地域)CS立体図(東京都デジタルツイン実現プロジェクト 島しょ地域点群データを加工して作成)</a>"
+        },
+        {
+          "id": "tokyo-shima-03-cs",
+          "type": "open-street-map",
+          "name": "東京都(島しょ地域03)CS立体図",
+          "url": "https://xs489works.xsrv.jp/raster-tiles/tokyo-digitaltwin/tokyopc-shima-03-2023-cs-tiles/",
+          "fileExtension": "png",
+          "attribution": "<a href='https://www.geospatial.jp/ckan/dataset/tokyopc-shima-2023'>東京都(島しょ地域)CS立体図(東京都デジタルツイン実現プロジェクト 島しょ地域点群データを加工して作成)</a>"
+        },
+        {
+          "id": "tokyo-shima-04-cs",
+          "type": "open-street-map",
+          "name": "東京都(島しょ地域04)CS立体図",
+          "url": "https://xs489works.xsrv.jp/raster-tiles/tokyo-digitaltwin/tokyopc-shima-04-2023-cs-tiles/",
+          "fileExtension": "png",
+          "attribution": "<a href='https://www.geospatial.jp/ckan/dataset/tokyopc-shima-2023'>東京都(島しょ地域)CS立体図(東京都デジタルツイン実現プロジェクト 島しょ地域点群データを加工して作成)</a>"
+        },
+        {
+          "id": "tokyo-shima-05-cs",
+          "type": "open-street-map",
+          "name": "東京都(島しょ地域05)CS立体図",
+          "url": "https://xs489works.xsrv.jp/raster-tiles/tokyo-digitaltwin/tokyopc-shima-05-2023-cs-tiles/",
+          "fileExtension": "png",
+          "attribution": "<a href='https://www.geospatial.jp/ckan/dataset/tokyopc-shima-2023'>東京都(島しょ地域)CS立体図(東京都デジタルツイン実現プロジェクト 島しょ地域点群データを加工して作成)</a>"
+        },
+        {
+          "id": "tokyo-shima-06-cs",
+          "type": "open-street-map",
+          "name": "東京都(島しょ地域06)CS立体図",
+          "url": "https://xs489works.xsrv.jp/raster-tiles/tokyo-digitaltwin/tokyopc-shima-06-2023-cs-tiles/",
+          "fileExtension": "png",
+          "attribution": "<a href='https://www.geospatial.jp/ckan/dataset/tokyopc-shima-2023'>東京都(島しょ地域)CS立体図(東京都デジタルツイン実現プロジェクト 島しょ地域点群データを加工して作成)</a>"
+        },
+        {
+          "id": "noto-cs",
+          "type": "open-street-map",
+          "name": "能登(石川県)CS立体図",
+          "url": "https://www2.ffpri.go.jp/soilmap/tile/cs_noto/",
+          "fileExtension": "png",
+          "attribution": "<a href='https://www2.ffpri.go.jp/soilmap/data-src.html'>能登(石川県)CS立体図(森林総研)</a>"
+        },
+        {
+          "id": "nagano-cs",
+          "type": "open-street-map",
+          "name": "長野県CS立体図",
+          "url": "https://tile.geospatial.jp/CS/VER2/",
+          "fileExtension": "png",
+          "attribution": "<a href='https://www.geospatial.jp/ckan/dataset/nagano-csmap'>長野県CS立体図(ver.2)</a>"
+        },
+        {
+          "id": "shizuoka-cs",
+          "type": "open-street-map",
+          "name": "静岡県CS立体図",
+          "url": "https://shiworks.xsrv.jp/raster-tiles/pref-shizuoka/shizuoka-cs-tiles/",
+          "fileExtension": "png",
+          "attribution": "<a href='https://www.geospatial.jp/ckan/dataset/shizuoka-2023-csmap'>静岡県CS立体図</a>"
+        },
+        {
+          "id": "osaka-cs",
+          "type": "open-street-map",
+          "name": "大阪府CS立体図",
+          "url": "https://xs489works.xsrv.jp/raster-tiles/pref-osaka/osaka-cs-tiles/",
+          "fileExtension": "png",
+          "attribution": "<a href='https://www.geospatial.jp/ckan/dataset/cs'>大阪府CS立体図</a>"
+        },
+        {
+          "id": "hyogo-cs",
+          "type": "open-street-map",
+          "name": "兵庫県CS立体図",
+          "url": "https://rinya-hyogo.geospatial.jp/2023/rinya/tile/csmap/",
+          "fileExtension": "png",
+          "attribution": "<a href='https://www.geospatial.jp/ckan/dataset/csmap_hyogo'>兵庫県CS立体図</a>"
+        },
+        {
+          "id": "wakayama-cs",
+          "type": "open-street-map",
+          "name": "和歌山県CS立体図",
+          "url": "https://xs489works.xsrv.jp/raster-tiles/pref-wakayama/wakayamapc-cs-tiles/",
+          "fileExtension": "png",
+          "attribution": "<a href='https://wakayamaken.geocloud.jp/mp/22'>和歌山県CS立体図(和歌山県3次元点群データを加工して作成)</a>"
+        },
+        {
+          "id": "okayama-cs",
+          "type": "open-street-map",
+          "name": "岡山県CS立体図",
+          "url": "https://www2.ffpri.go.jp/soilmap/tile/cs_okayama/",
+          "fileExtension": "png",
+          "attribution": "<a href='https://www2.ffpri.go.jp/soilmap/data-src.html'>岡山県CS立体図(森林総研)</a>"
+        },
+        {
+          "id": "hiroshima-cs",
+          "type": "open-street-map",
+          "name": "広島県CS立体図(林野庁0.5m)",
+          "url": "https://www2.ffpri.go.jp/soilmap/tile/cs_hiroshima/",
+          "fileExtension": "png",
+          "attribution": "<a href='https://www2.ffpri.go.jp/soilmap/data-src.html'>広島県CS立体図(森林総研)</a>"
+        },
+        {
+          "id": "hiroshima-05m-cs",
+          "type": "open-street-map",
+          "name": "広島県CS立体図(広島県0.5m)",
+          "url": "https://shiworks.xsrv.jp/raster-tiles/pref-hiroshima/hiroshimapc-2022-cs-tiles/",
+          "fileExtension": "png",
+          "attribution": "<a href='https://hiroshima-dobox.jp/index2'>広島県CS立体図(広島県3次元点群データを加工して作成)</a>"
+        },
+        {
+          "id": "hiroshima-1m-cs",
+          "type": "open-street-map",
+          "name": "広島県CS立体図(広島県1m)",
+          "url": "https://xs489works.xsrv.jp/raster-tiles/pref-hiroshima/hiroshimapc-cs-tiles/",
+          "fileExtension": "png",
+          "attribution": "<a href='https://hiroshima-dobox.jp/index2'>広島県CS立体図(広島県3次元点群データを加工して作成)</a>"
+        },
+        {
+          "id": "ehime-cs",
+          "type": "open-street-map",
+          "name": "愛媛県CS立体図",
+          "url": "https://www2.ffpri.go.jp/soilmap/tile/cs_ehime/",
+          "fileExtension": "png",
+          "attribution": "<a href='https://www2.ffpri.go.jp/soilmap/data-src.html'>愛媛県CS立体図(森林総研)</a>"
+        },
+        {
+          "id": "kochi-cs",
+          "type": "open-street-map",
+          "name": "高知県CS立体図",
+          "url": "https://rinya-kochi.geospatial.jp/2023/rinya/tile/csmap/",
+          "fileExtension": "png",
+          "attribution": "<a href='https://www.geospatial.jp/ckan/dataset/csmap_kochi'>高知県CS立体図</a>"
+        },
+        {
+          "id": "kumamoto-oita-cs",
+          "type": "open-street-map",
+          "name": "熊本県・大分県CS立体図",
+          "url": "https://www2.ffpri.go.jp/soilmap/tile/cs_kumamoto_oita/",
+          "fileExtension": "png",
+          "attribution": "<a href='https://www2.ffpri.go.jp/soilmap/data-src.html'>熊本県・大分県CS立体図(森林総研)</a>"
+        }
+      ]
+    },
+    {
+      "id": "satellite-group",
+      "name": "衛星画像",
+      "type": "group",
+      "members": [
+        {
+          "id": "maptiler-satellite",
+          "type": "open-street-map",
+          "name": "MapTiler Satellite",
+          "url": "https://api.maptiler.com/tiles/satellite-v2/?key=3vP7xaDm3gASNdwulEW1",
+          "fileExtension": "jpg",
+          "attribution": "<a href='https://www.maptiler.com/copyright/'>&copy; MapTiler</a> <a href='https://www.openstreetmap.org/copyright'>&copy; OpenStreetMap contributors</a>"
+        }
+      ]
+    },
+    {
+      "id": "shiro-group",
+      "name": "山城",
+      "type": "group",
+      "members": [
+        {
+          "id": "yamajiro",
+          "type": "geojson",
+          "name": "山城攻城記",
+          "url": "https://shi-works.github.io/yamajiro-geojson/castles-data.geojson",
+          "attribution": "<a href='https://gosenzo.net/yamajiro/'>山城攻城記</a>",
+          "style": {
+            "marker-url": "https://shiworks.xsrv.jp/geojson/yamajiro/shiro25x25r.png"
+          },
+          "featureInfoTemplate": {
+            "template": "<h4>城情報</h4><table>{{#eachProperty}}{{#unless (is 'URL' name)}}<tr><td><strong>{{name}}</strong></td><td>{{value}}</td></tr>{{/unless}}{{/eachProperty}}</table>"
+          }
+        }
+      ]
+    }
+  ],
+  "viewerMode": "3dSmooth",
+  "baseMaps": {
+    "items": [
+      {
+        "item": {
+          "type": "open-street-map",
+          "id": "chiri-map",
+          "name": "地理院タイル",
+          "url": "https://cyberjapandata.gsi.go.jp/xyz/std/",
+          "fileExtension": "png",
+          "attribution": "<a href='https://maps.gsi.go.jp/development/ichiran.html'>地理院タイル</a>"
+        },
+        "image": "https://cyberjapandata.gsi.go.jp/xyz/std/18/232801/103215.png"
+      }
+    ],
+    "defaultBaseMapId": "basemap-positron",
+    "previewBaseMapId": "basemap-positron"
+  }
+}
