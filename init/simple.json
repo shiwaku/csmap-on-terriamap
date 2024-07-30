@@ -86,10 +86,18 @@
         {
           "id": "noto-cs",
           "type": "open-street-map",
-          "name": "能登(石川県)CS立体図",
+          "name": "能登(石川県)CS立体図(発災前)",
           "url": "https://www2.ffpri.go.jp/soilmap/tile/cs_noto/",
           "fileExtension": "png",
           "attribution": "<a href='https://www2.ffpri.go.jp/soilmap/data-src.html'>能登(石川県)CS立体図(森林総研)</a>"
+        },
+        {
+          "id": "noto-cs-af",
+          "type": "open-street-map",
+          "name": "能登(石川県)CS立体図(発災後)",
+          "url": "https://shiworks.xsrv.jp/proxy.php?url=https://rinya.geospatial.jp/tile/csmaptile_noto/{z}/{x}/{y}.png",
+          "fileExtension": "png",
+          "attribution": "<a href='https://www.geospatial.jp/ckan/dataset/2024noto_rinya'>能登地域CS立体図(林野庁)</a>"
         },
         {
           "id": "nagano-cs",
@@ -213,7 +221,7 @@
           "id": "yamajiro",
           "type": "geojson",
           "name": "山城攻城記",
-          "url": "https://shiwaku.github.io/yamajiro-geojson/castles-data.geojson",
+          "url": "https://shi-works.github.io/yamajiro-geojson/castles-data.geojson",
           "attribution": "<a href='https://gosenzo.net/yamajiro/'>山城攻城記</a>",
           "style": {
             "marker-url": "https://shiworks.xsrv.jp/geojson/yamajiro/shiro25x25r.png"
