@@ -12,6 +12,14 @@
       "type": "group",
       "members": [
         {
+          "id": "niigata-nagaoka-cs",
+          "type": "open-street-map",
+          "name": "新潟県(長岡地域)CS立体図",
+          "url": "https://shiworks.xsrv.jp/proxy.php?url=https://rinya.geospatial.jp/tile/csmaptile_nagaoka/{z}/{x}/{y}.png",
+          "fileExtension": "png",
+          "attribution": "<a href='https://www.geospatial.jp/ckan/dataset/2024nagaoka_rinya'>新潟県(長岡地域)CS立体図(林野庁)</a>"
+        },
+        {
           "id": "fukushima-cs",
           "type": "open-street-map",
           "name": "福島県CS立体図",
@@ -221,7 +229,7 @@
           "id": "yamajiro",
           "type": "geojson",
           "name": "山城攻城記",
-          "url": "https://shi-works.github.io/yamajiro-geojson/castles-data.geojson",
+          "url": "https://shiwaku.github.io/yamajiro-geojson/castles-data.geojson",
           "attribution": "<a href='https://gosenzo.net/yamajiro/'>山城攻城記</a>",
           "style": {
             "marker-url": "https://shiworks.xsrv.jp/geojson/yamajiro/shiro25x25r.png"
