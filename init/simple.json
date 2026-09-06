@@ -39,72 +39,72 @@
           "id": "tokyo-23ku-cs",
           "type": "open-street-map",
           "name": "東京都(区部)CS立体図",
-          "url": "https://shiworks.xsrv.jp/raster-tiles/tokyo-digitaltwin/tokyopc-23ku-2024-cs-tiles/",
-          "fileExtension": "png",
+          "url": "https://shi-works.com/raster-tiles/tokyo-digitaltwin/23ku-csmap-tiles/",
+          "fileExtension": "webp",
           "attribution": "<a href='https://www.geospatial.jp/ckan/dataset/tokyopc-23ku-2024'>東京都(区部)CS立体図(東京都デジタルツイン実現プロジェクト 区部点群データを加工して作成)</a>"
         },
         {
           "id": "tokyo-tama-cs",
           "type": "open-street-map",
           "name": "東京都(多摩地域)CS立体図",
-          "url": "https://shiworks.xsrv.jp/raster-tiles/tokyo-digitaltwin/tokyopc-tama-2023-cs-tiles/",
-          "fileExtension": "png",
+          "url": "https://shi-works.com/raster-tiles/tokyo-digitaltwin/tama-csmap-tiles/",
+          "fileExtension": "webp",
           "attribution": "<a href='https://www.geospatial.jp/ckan/dataset/tokyopc-tama-2023'>東京都(多摩地域)CS立体図(東京都デジタルツイン実現プロジェクト 多摩地域点群データを加工して作成)</a>"
         },
         {
           "id": "tokyo-shima-01-cs",
           "type": "open-street-map",
           "name": "東京都(島しょ地域01)CS立体図",
-          "url": "https://xs489works.xsrv.jp/raster-tiles/tokyo-digitaltwin/tokyopc-shima-01-2023-cs-tiles/",
-          "fileExtension": "png",
+          "url": "https://shi-works.com/raster-tiles/tokyo-digitaltwin/shima-01-izu-oshima-csmap-tiles/",
+          "fileExtension": "webp",
           "attribution": "<a href='https://www.geospatial.jp/ckan/dataset/tokyopc-shima-2023'>東京都(島しょ地域)CS立体図(東京都デジタルツイン実現プロジェクト 島しょ地域点群データを加工して作成)</a>"
         },
         {
           "id": "tokyo-shima-02-cs",
           "type": "open-street-map",
           "name": "東京都(島しょ地域02)CS立体図",
-          "url": "https://xs489works.xsrv.jp/raster-tiles/tokyo-digitaltwin/tokyopc-shima-02-2023-cs-tiles/",
-          "fileExtension": "png",
+          "url": "https://shi-works.com/raster-tiles/tokyo-digitaltwin/shima-02-toshima-kozushima-csmap-tiles/",
+          "fileExtension": "webp",
           "attribution": "<a href='https://www.geospatial.jp/ckan/dataset/tokyopc-shima-2023'>東京都(島しょ地域)CS立体図(東京都デジタルツイン実現プロジェクト 島しょ地域点群データを加工して作成)</a>"
         },
         {
           "id": "tokyo-shima-03-cs",
           "type": "open-street-map",
           "name": "東京都(島しょ地域03)CS立体図",
-          "url": "https://xs489works.xsrv.jp/raster-tiles/tokyo-digitaltwin/tokyopc-shima-03-2023-cs-tiles/",
-          "fileExtension": "png",
+          "url": "https://shi-works.com/raster-tiles/tokyo-digitaltwin/shima-03-miyakejima-csmap-tiles/",
+          "fileExtension": "webp",
           "attribution": "<a href='https://www.geospatial.jp/ckan/dataset/tokyopc-shima-2023'>東京都(島しょ地域)CS立体図(東京都デジタルツイン実現プロジェクト 島しょ地域点群データを加工して作成)</a>"
         },
         {
           "id": "tokyo-shima-04-cs",
           "type": "open-street-map",
           "name": "東京都(島しょ地域04)CS立体図",
-          "url": "https://xs489works.xsrv.jp/raster-tiles/tokyo-digitaltwin/tokyopc-shima-04-2023-cs-tiles/",
-          "fileExtension": "png",
+          "url": "https://shi-works.com/raster-tiles/tokyo-digitaltwin/shima-04-mikurajima-csmap-tiles/",
+          "fileExtension": "webp",
           "attribution": "<a href='https://www.geospatial.jp/ckan/dataset/tokyopc-shima-2023'>東京都(島しょ地域)CS立体図(東京都デジタルツイン実現プロジェクト 島しょ地域点群データを加工して作成)</a>"
         },
         {
           "id": "tokyo-shima-05-cs",
           "type": "open-street-map",
           "name": "東京都(島しょ地域05)CS立体図",
-          "url": "https://xs489works.xsrv.jp/raster-tiles/tokyo-digitaltwin/tokyopc-shima-05-2023-cs-tiles/",
-          "fileExtension": "png",
+          "url": "https://shi-works.com/raster-tiles/tokyo-digitaltwin/shima-05-hachijojima-csmap-tiles/",
+          "fileExtension": "webp",
           "attribution": "<a href='https://www.geospatial.jp/ckan/dataset/tokyopc-shima-2023'>東京都(島しょ地域)CS立体図(東京都デジタルツイン実現プロジェクト 島しょ地域点群データを加工して作成)</a>"
         },
         {
           "id": "tokyo-shima-06-cs",
           "type": "open-street-map",
           "name": "東京都(島しょ地域06)CS立体図",
-          "url": "https://xs489works.xsrv.jp/raster-tiles/tokyo-digitaltwin/tokyopc-shima-06-2023-cs-tiles/",
-          "fileExtension": "png",
+          "url": "https://shi-works.com/raster-tiles/tokyo-digitaltwin/shima-06-aogashima-csmap-tiles/",
+          "fileExtension": "webp",
           "attribution": "<a href='https://www.geospatial.jp/ckan/dataset/tokyopc-shima-2023'>東京都(島しょ地域)CS立体図(東京都デジタルツイン実現プロジェクト 島しょ地域点群データを加工して作成)</a>"
         },
         {
           "id": "kanagawa-cs",
           "type": "open-street-map",
           "name": "神奈川県CS立体図",
-          "url": "https://shiworks.xsrv.jp/raster-tiles/pref-kanagawa/kanagawapc-cs-tiles/",
-          "fileExtension": "png",
+          "url": "https://shi-works.com/raster-tiles/pref-kanagawa/kanagawa-csmap-tiles/",
+          "fileExtension": "webp",
           "attribution": "<a href='https://www.geospatial.jp/ckan/dataset?q=%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C+%E7%82%B9%E7%BE%A4&sort=metadata_modified+desc'>神奈川県CS立体図(神奈川県3次元点群データを加工して作成)</a>"
         },
         {
@@ -135,16 +135,16 @@
           "id": "shizuoka-cs",
           "type": "open-street-map",
           "name": "静岡県CS立体図",
-          "url": "https://shiworks.xsrv.jp/raster-tiles/pref-shizuoka/shizuoka-cs-tiles/",
-          "fileExtension": "png",
+          "url": "https://shi-works.com/raster-tiles/pref-shizuoka/shizuoka-csmap-tiles/",
+          "fileExtension": "webp",
           "attribution": "<a href='https://www.geospatial.jp/ckan/dataset/shizuoka-2023-csmap'>静岡県CS立体図</a>"
         },
         {
           "id": "osaka-cs",
           "type": "open-street-map",
           "name": "大阪府CS立体図",
-          "url": "https://xs489works.xsrv.jp/raster-tiles/pref-osaka/osaka-cs-tiles/",
-          "fileExtension": "png",
+          "url": "https://shi-works.com/raster-tiles/pref-osaka/osaka-csmap-tiles/",
+          "fileExtension": "webp",
           "attribution": "<a href='https://www.geospatial.jp/ckan/dataset/cs'>大阪府CS立体図</a>"
         },
         {
@@ -159,8 +159,8 @@
           "id": "wakayama-cs",
           "type": "open-street-map",
           "name": "和歌山県CS立体図",
-          "url": "https://xs489works.xsrv.jp/raster-tiles/pref-wakayama/wakayamapc-cs-tiles/",
-          "fileExtension": "png",
+          "url": "https://shi-works.com/raster-tiles/pref-wakayama/wakayama-csmap-tiles/",
+          "fileExtension": "webp",
           "attribution": "<a href='https://wakayamaken.geocloud.jp/mp/22'>和歌山県CS立体図(和歌山県3次元点群データを加工して作成)</a>"
         },
         {
@@ -183,16 +183,16 @@
           "id": "hiroshima-05m-cs",
           "type": "open-street-map",
           "name": "広島県CS立体図(広島県0.5m)",
-          "url": "https://shiworks.xsrv.jp/raster-tiles/pref-hiroshima/hiroshimapc-2022-cs-tiles/",
-          "fileExtension": "png",
+          "url": "https://shi-works.com/raster-tiles/pref-hiroshima/hiroshima-0.5m-csmap-tiles/",
+          "fileExtension": "webp",
           "attribution": "<a href='https://hiroshima-dobox.jp/index2'>広島県CS立体図(広島県3次元点群データを加工して作成)</a>"
         },
         {
           "id": "hiroshima-1m-cs",
           "type": "open-street-map",
           "name": "広島県CS立体図(広島県1m)",
-          "url": "https://xs489works.xsrv.jp/raster-tiles/pref-hiroshima/hiroshimapc-cs-tiles/",
-          "fileExtension": "png",
+          "url": "https://shi-works.com/raster-tiles/pref-hiroshima/hiroshima-1m-csmap-tiles/",
+          "fileExtension": "webp",
           "attribution": "<a href='https://hiroshima-dobox.jp/index2'>広島県CS立体図(広島県3次元点群データを加工して作成)</a>"
         },
         {
@@ -248,7 +248,7 @@
           "url": "https://shiwaku.github.io/yamajiro-geojson/castles-data.geojson",
           "attribution": "<a href='https://gosenzo.net/yamajiro/'>山城攻城記</a>",
           "style": {
-            "marker-url": "https://shiworks.xsrv.jp/geojson/yamajiro/shiro25x25r.png"
+            "marker-url": "https://shi-works.com/geojson/yamajiro/shiro25x25r.png"
           },
           "featureInfoTemplate": {
             "template": "<h4>城情報</h4><table>{{#eachProperty}}{{#unless (is 'URL' name)}}<tr><td><strong>{{name}}</strong></td><td>{{value}}</td></tr>{{/unless}}{{/eachProperty}}</table>"
